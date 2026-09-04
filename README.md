@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Superhero U Campaign Analysis](https://github.com/Anurag9927/superheroU-analysis)
 
-- 🌱 I’m currently learning **Power BI | Python | Tableau | Advanced SQL**
+- 🌱 I’m currently learning **Advanced Excel | Power BI | Python | Tableau | Advanced SQL**
 
 - 👯 I’m looking to collaborate on [Sales Prediction with ML Models](https://github.com/Anurag9927/sales-forecast-ml)
 
